@@ -1,0 +1,10 @@
+//
+// Created by Tristan Brindle on 25/10/2017.
+//
+
+#ifndef CONSTRUCTOR_PLAYGROUND_EXAMPLE_HPP
+#define CONSTRUCTOR_PLAYGROUND_EXAMPLE_HPP
+
+struct example {};
+
+#endif //CONSTRUCTOR_PLAYGROUND_EXAMPLE_HPP
